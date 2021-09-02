@@ -8,7 +8,7 @@ import exercicioPratico8.vetor;
 import javax.swing.JOptionPane;
 /**
  *
- * @author pedro
+ * @author pedro  dsadsada
  */
 public class main {
     
